@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![Hua's github stats](https://github-readme-stats.vercel.app/api?username=atomskjd&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atomskjd&theme=tokyonight)](https://github.com/atomskjd/github-readme-stats)
+
 <!--
 **AtomskJD/atomskjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
